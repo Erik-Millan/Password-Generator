@@ -6,3 +6,8 @@
 #### .1 Length of 8 - 128 characters
 #### .2 Whether or not to include lowercase, uppercase, numeric, and/or special characters
 #### .3 Generate a password with the selected criteria
+
+
+##### Links
+##### https://erik-millan.github.io/Password-Generator/
+##### https://github.com/Erik-Millan/Password-Generator
